@@ -33,7 +33,7 @@
 
 
 
-<br><details> <summary align="center"> </samp></summary>
+<br><details> <summary align="center"> </summary>
 <p align="left">
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
