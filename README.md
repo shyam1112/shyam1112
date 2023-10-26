@@ -87,11 +87,11 @@
 
 [![An image of @shyam1112's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shyam1112)](https://holopin.io/@shyam1112)
 </div>
-<div align="center">
+<!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <!-- <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ayushparikh-code}/count.svg" /></p>  -->
  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{shyam1112}/count.svg" /></p> 
-<br></div>
+<br></div> -->
 
 
 <p align="center">
