@@ -85,7 +85,7 @@
 </p>
  
 
-
+[![An image of @shyam1112's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shyam1112)](https://holopin.io/@shyam1112)
 
 </div>
 <div align="center">
